@@ -44,14 +44,14 @@ cd SynthMind
 "
 
 2.Install Python Dependencies
-
+"
 pip install -r requirements.txt
-
+"
 
 3.Set Up MySQL Database
 
 -Open MySQL and run the SQL script to create tables:
-
+"
 CREATE DATABASE synthmind_AI_DB;
 USE synthmind_AI_DB;
 
@@ -77,7 +77,7 @@ CREATE TABLE chat_history (
     Session_Title VARCHAR(250)
 );
 
-
+"
 4.Configure Streamlit Secrets
 
 In the `.streamlit/` folder, create a `secrets.toml` file:
@@ -97,9 +97,9 @@ ollama pull gemma:2b
 
 6. Run the App
 
-
+"
 streamlit run app.py
-
+"
 
 Then open the browser URL shown in the terminal (usually http://localhost:8501).
 
