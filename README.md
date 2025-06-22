@@ -38,10 +38,10 @@ logging – for backend debugging
 🛠️ Step-by-Step Setup
 
 1.Clone the Repository
-
+"
 git clone https://github.com/YourUsername/SynthMind.git
 cd SynthMind
-
+"
 
 2.Install Python Dependencies
 
