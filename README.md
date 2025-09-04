@@ -7,10 +7,15 @@ SynthMind is a smart AI chatbot built using Streamlit, Ollama (Gemma 2B model), 
  🌟 Features
 
 🔐 User Registration & Login
+
 💬 Chat interface with real-time AI responses
+
 🧠 Powered by Gemma 2B LLM running locally via Ollama
+
 💾 Chat history stored session-wise in MySQL database
+
 🖥️ Streamlit-based clean web UI
+
 🔒 No external API – all local and secure
 
 
