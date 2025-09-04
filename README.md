@@ -39,7 +39,7 @@ logging – for backend debugging
 
 1.Clone the Repository
 "
-git clone https://github.com/YourUsername/SynthMind.git
+git clone https://github.com/SaYaN00101/SynthMind.git
 cd SynthMind
 "
 
@@ -106,7 +106,9 @@ Then open the browser URL shown in the terminal (usually http://localhost:8501).
 
 📸 Screenshots
 
-Add interface and chatbot screenshots here after uploading to GitHub._
+![Screenshot_4-9-2025_172832_](https://github.com/user-attachments/assets/1cc07601-54a8-4b01-b9b5-ae4f6d99268c)
+
+![Screenshot_4-9-2025_172852_](https://github.com/user-attachments/assets/e8217d3d-6213-4436-b5f0-8ce101692983)
 
 
 
